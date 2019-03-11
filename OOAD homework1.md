@@ -1,10 +1,10 @@
-#软件的本质与软件工程学#
+#软件的本质与软件工程学
 
-##软件工程的定义：##
+##软件工程的定义：
 >software engineering is "(1) the application of  sa sysytenatic disciplined quantifiable approach to the development ,operation ,and maintenance of software ,that is .the applecation of  engineering to software ," and "(2)thue study of approaches as in (1)"   
 软件工程是（1）将系统化的、规范的、可度量化方法应用与软件的开发、运行和维护，即将工程化方法应用于软件；（2）在（1）中所述方法的研究。--IEEE Standard 610.12
 ****
-##软件危机的产生、现象以及处理方法##
+##软件危机的产生、现象以及处理方法
 **软件危机（software crisis）**是计算机在它的开发和维护中所遇到的一系列严重的问题，即落后的软件生产方式无法满足迅速增长的计算机软件需求，从而导致软件开发与维护过程出现严重问题
 的现象。
 
@@ -44,19 +44,19 @@
 
 
 ****
-##软件生命周期##
+##软件生命周期
 - 
 
 **[软件生命周期](https://wiki.mbalib.com/wiki/%E8%BD%AF%E4%BB%B6%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F)
 （SLC，Software Life Cycle）**是指软件的产生直到报废或者停止使用的生命周期，又称软件生存周期或者系统开发生命周期。
 周期内有问题定义、可行性分析、总体描述、系统设计、编码、调试和测试、验收与运行、维护升级到废弃等阶段，这种按时间分程的思想方法是软件工程中的一种思想原则，即按部就班、逐步推进，每个阶段都要有定义、工作、审查、形成文档以供交流或备查，以提高软件的质量。但随着新的面向对象的设计方法和技术的成熟，软件生命周期设计方法的指导意义正在逐步减少。
 
-##软件工程知识体系(Software  Engineering Body of Knowledge, SWEBok)##
+##软件工程知识体系(Software  Engineering Body of Knowledge, SWEBok)
 
 [SWEBOK](https://www.sebokwiki.org/wiki/An_Overview_of_the_SWEBOK_Guide)
 V3  一共包括15个知识域,其中十一个是软件工程实践知识域，分别是软件需求、软件设计、软件构造、软件测试、软件维护、软件配置管理、软件工程管理、软件工程过程、软件工程模型和方法，软件质量、软件工程职业实践；以及四个软件工程教育基础知识域：软件工程经济学、计算基础、数学基础和工程基础。
 
-####软件工程实践中的知识域####
+####软件工程实践中的知识域
 
 - 软件需求（software requirements）
 
@@ -105,7 +105,7 @@ V3  一共包括15个知识域,其中十一个是软件工程实践知识域，�
 
 软件工程专业实践 ka 涵盖专业 (专业操守、专业社团、软件工程标准、雇用合同和法律问题);道德守则;群体动态 (团队合作, 认知问题复杂性, 与利益相关者互动, 处理不确定性和歧义, 处理多元文化环境);和沟通技巧。
 
-####软件工程教育要求的知识域####
+####软件工程教育要求的知识域
 
 - 软件工程经济学（Software Engineering Economics）
 
@@ -123,7 +123,7 @@ V3  一共包括15个知识域,其中十一个是软件工程实践知识域，�
 
 工程基础 ka 涵盖了为软件工程实践提供必要的工程背景的基本主题。所涉及的主题包括经验方法和实验技术;统计分析;测量和指标;工程设计;模拟和建模;和根本原因分析。
 
-##软件能力成熟度模型（Capability Maturity Model for Software / CMM）或 CMMI##
+##软件能力成熟度模型（Capability Maturity Model for Software / CMM）或 CMMI
 
 - 台阶一：CMMI一级，完成级。在完成级水平上，企业对项目的目标与要做的努力很清晰，项目的目标得以实现。但是由于任务的完成带有很大的偶然性，企业无法保证在实施同类项目的时候仍然能够完成任务。企业在一级上的项目实施对实施人员有很大的依赖性。
 
