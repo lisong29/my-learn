@@ -4,7 +4,9 @@
 ---------------
 
 >software engineering is "(1) the application of  sa sysytenatic disciplined quantifiable approach to the development ,operation ,and maintenance of software ,that is .the applecation of  engineering to software ," and "(2)thue study of approaches as in (1)"   
-软件工程是（1）将系统化的、规范的、可度量化方法应用与软件的开发、运行和维护，即将工程化方法应用于软件；（2）在（1）中所述方法的研究。--IEEE Standard 610.12
+软件工程是（1）将系统化的、规范的、可度量化方法应用与软件的开发、运行和维护，即将工程化方法应用于软件；（2）在（1）中所述方法的研究。
+
+--IEEE Standard 610.12
 ****
 
 软件危机的产生、现象以及处理方法
@@ -24,7 +26,7 @@
 - 软件开发进度难以预测
  *实际进度比预定计划一再拖延*
 - 软件开发成本难以控制 
-    *开发成本超出预算*
+  *开发成本超出预算*
 - 用户对产品功能难以满足
  *用户需求不明确*
 - 软件产品质量无法保证
@@ -37,9 +39,10 @@
 **软件危机的消除**
 
 - 解决途径：
+
 在主观方面：
 
-  ·1正确认知计算机软件的内涵
+ ·1正确认知计算机软件的内涵
 
  ·2充分认识到软件开发不是某种个体劳动的神秘技巧，而是一种组织良好、管理严密、协同配合的工程活动
 
